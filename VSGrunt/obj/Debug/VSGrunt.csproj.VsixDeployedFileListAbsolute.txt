@@ -1,0 +1,4 @@
+C:\Users\nmartin.ADAGE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSGrunt\1.0\\extension.vsixmanifest
+C:\Users\nmartin.ADAGE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSGrunt\1.0\\Newtonsoft.Json.dll
+C:\Users\nmartin.ADAGE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Adage Technologies\VSGrunt\1.1.0\\Newtonsoft.Json.dll
+C:\Users\nmartin.ADAGE\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Adage Technologies\VSGrunt\1.1.0\\extension.vsixmanifest
